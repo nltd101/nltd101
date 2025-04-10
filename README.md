@@ -19,5 +19,3 @@
 <p><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=nltd101&show_icons=true&locale=en&layout=compact" alt="nltd101" /></p>
 
 <p>&nbsp;<img align="center"  height="150" src="https://github-readme-stats.vercel.app/api?username=nltd101&show_icons=true&locale=en" alt="nltd101" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nltd101&" alt="nltd101" /></p>
