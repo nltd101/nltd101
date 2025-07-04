@@ -44,12 +44,7 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=nltd101&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=nltd101&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
 
