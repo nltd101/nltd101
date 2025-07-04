@@ -1,21 +1,26 @@
-<h2 align="center">Hi 👋, I'm Dat Nguyen</h1>
-<h4 align="center">A backend developer from Vietnam dedicated to continuous self-improvement and technical excellence.</h3>
+## 👋 Hi, I'm Dat Nguyen
+#### A backend developer from Vietnam dedicated to continuous self-improvement and technical excellence.
 
 ---
 
 #### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/nltd101" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+
+<p align="center">
+  <a href="https://linkedin.com/in/nltd101" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/@datnguyen101" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  <a href="https://www.youtube.com/c/@datnguyen101" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="mailto:nltd101@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/nltd101/nltd101/blob/main/email-svgrepo-com.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
 ---
 
 #### 🛠️ Languages & Tools
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
@@ -44,7 +49,4 @@
 
 #### 📊 GitHub Stats
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nltd101)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nltd101&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
