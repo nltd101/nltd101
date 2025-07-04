@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dat Nguyen</h1>
-<h3 align="center">A backend developer from Vietnam dedicated to continuous self-improvement and technical excellence.</h3>
+<h2 align="center">Hi 👋, I'm Dat Nguyen</h1>
+<h4 align="center">A backend developer from Vietnam dedicated to continuous self-improvement and technical excellence.</h3>
 
 ---
 
-### 🌐 Connect with Me
+#### 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/nltd101" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+#### 🛠️ Languages & Tools
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
@@ -42,7 +42,7 @@
 
 ---
 
-### 📊 GitHub Stats
+#### 📊 GitHub Stats
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nltd101)](https://github.com/anuraghazra/github-readme-stats)
 
